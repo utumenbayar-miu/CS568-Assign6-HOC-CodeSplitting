@@ -5,5 +5,6 @@
 3. Implement Dynamic import slide.
 4. Load a component dynamically with React.lazy and React.Suspense.
 
-BONUS
+BONUS:
+
 Implement login and registration pages in React Native with AWS Amplify and withAuthenticator HOC. Document each step and issues you solved. https://docs.amplify.aws/start/q/integration/react-native/ and https://docs.amplify.aws/ui/auth/authenticator/q/framework/react-native/
