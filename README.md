@@ -1,10 +1,8 @@
-# CS568 - Assignment 6 – HOC and Lazy loading
+# CS568 - Assignment 9 – HOC and Class-Component
 
-1. Implement withCounter that increments when hover or click on the components with HOC.
-2. Implement React.memo example in the slide.
-3. Implement Dynamic import slide.
-4. Load a component dynamically with React.lazy and React.Suspense.
+1. Implement withCounter in both Class-based and Functional way.
+2. Write the sample Students app in a Class-based way.
 
-BONUS:
-
-Implement login and registration pages in React Native with AWS Amplify and withAuthenticator HOC. Document each step and issues you solved. https://docs.amplify.aws/start/q/integration/react-native/ and https://docs.amplify.aws/ui/auth/authenticator/q/framework/react-native/
+## Microtask
+* Implement Dynamic import slide.
+* Load a component dynamically with React.lazy and React.Suspense.
